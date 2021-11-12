@@ -1,0 +1,9 @@
+Lx/(2pi) 1.
+Ly/(2pi) 2.
+Nx 128
+Ny 256
+Function p
+Output p.h5 
+
+# of processes in x 2
+# of processes in y 2 
